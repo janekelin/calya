@@ -10,7 +10,7 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "gh-pages": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,9 +20,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
-  "homepage": "https://janekelin.github.io/calya",
-  "devDependencies": {
-    "gh-pages": "^2.1.1"
-  }
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "homepage": "https://janekelin.github.io/calya"
 }
