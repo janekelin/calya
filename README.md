@@ -1,2 +1,0 @@
-# calya
-Created with CodeSandbox
