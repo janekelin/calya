@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calya/static/css/main.c2af609a.chunk.css",
+    "main.js": "/calya/static/js/main.f52d6cf2.chunk.js",
+    "main.js.map": "/calya/static/js/main.f52d6cf2.chunk.js.map",
+    "runtime~main.js": "/calya/static/js/runtime~main.5d21853e.js",
+    "runtime~main.js.map": "/calya/static/js/runtime~main.5d21853e.js.map",
+    "static/js/2.7cdb11dc.chunk.js": "/calya/static/js/2.7cdb11dc.chunk.js",
+    "static/js/2.7cdb11dc.chunk.js.map": "/calya/static/js/2.7cdb11dc.chunk.js.map",
+    "index.html": "/calya/index.html",
+    "precache-manifest.18bbb339ab7a195fa1270b2e58855bc0.js": "/calya/precache-manifest.18bbb339ab7a195fa1270b2e58855bc0.js",
+    "service-worker.js": "/calya/service-worker.js",
+    "static/css/main.c2af609a.chunk.css.map": "/calya/static/css/main.c2af609a.chunk.css.map"
+  }
+}
